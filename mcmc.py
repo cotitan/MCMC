@@ -34,7 +34,7 @@ def continuous():
     plt.show()
 
 def discrete():
-    """ Metropolis-Hastings for continuous distribution
+    """ Metropolis-Hastings for descrete distribution
     """
     dim = 5
     # target distribution
